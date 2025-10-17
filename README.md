@@ -12,10 +12,6 @@
 - ✅ Starting DSA with GFG & LeetCode
 - 📊 Target: Solve 200+ problems before 3rd year ends
 
-## 📁 Projects
-- String Manipulation in C (Coming soon)
-- DSA Problem Solutions (WIP)
-
 ## 📫 Connect With Me
 - LinkedIn: Stuti Paulin
 - email: stutipaulin@gmail.com
